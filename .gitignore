@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/POSApplication/POSApplication/obj/Debug/netcoreapp3.1
+/POSApplication/POSApplication/obj
+/POSApplication/POSApplication.Data/obj
+/POSApplication/POSApplication.Service/obj
+/POSApplication/POSApplication/bin/Debug/netcoreapp3.1
+/POSApplication/.vs
+/POSApplication/POSApplication.Data/bin/Debug/netcoreapp3.1
+/POSApplication/POSApplication.Service/bin/Debug/netcoreapp3.1
