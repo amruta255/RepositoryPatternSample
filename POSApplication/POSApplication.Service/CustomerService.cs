@@ -13,6 +13,7 @@ namespace POSApplication.Service
     {
         private readonly IRepository<Customer> _customerRepository;
 
+
         public CustomerService(IRepository<Customer> customerRepository)
         {
             _customerRepository = customerRepository;
